@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "name": "ARM",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin",
+      "includePath": [
+        "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin",
+        "${workspaceFolder}/Core/Inc",
+        "${workspaceFolder}/Drivers/STM32F4xx_HAL_Driver/Inc",
+        "${workspaceFolder}/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+        "${workspaceFolder}/Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+        "${workspaceFolder}/Drivers/CMSIS/Include",
+        "${workspaceFolder}/ExternLib/Inc",
+        "${workspaceFolder}/Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS",
+        "${workspaceFolder}/Middlewares/Third_Party/FreeRTOS/Source/Include",
+        "${workspaceFolder}/Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F",
+        "${workspaceFolder}/Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang"
+      ],
+      "defines": [
+        "STM32F407xx",
+        "USE_HAL_DRIVER"
+      ],
+      "browse": {
+        "limitSymbolsToIncludedHeaders": true,
+        "databaseFilename": "",
+        "path": [
+          "${workspaceFolder}"
+        ]
+      },
+      "cStandard": "c17",
+      "cppStandard": "c++14"
+    },
+    {
+      "name": "stm32",
+      "includePath": [
+        "C:\\Program Files (x86)\\GNU Arm Embedded Toolchain\\10 2020-q4-major\\bin",
+        "Core/Inc",
+        "Drivers/STM32F4xx_HAL_Driver/Inc",
+        "Drivers/STM32F4xx_HAL_Driver/Inc/Legacy",
+        "Drivers/CMSIS/Device/ST/STM32F4xx/Include",
+        "Drivers/CMSIS/Include",
+        "ExternLib/Inc",
+        "Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS",
+        "Middlewares/Third_Party/FreeRTOS/Source/Include",
+        "Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F",
+        "Middlewares/Third_Party/FreeRTOS/Source/portable/MemMang"
+      ],
+      "compilerPath": "C:\\PROGRAM FILES (X86)\\GNU ARM EMBEDDED TOOLCHAIN\\10 2020-Q4-MAJOR\\BIN\\ARM-NONE-EABI-GCC.EXE"
+    }
+  ],
+  "version": 4
+}

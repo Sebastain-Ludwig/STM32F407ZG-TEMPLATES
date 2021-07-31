@@ -1,0 +1,3 @@
+E:/VS code workspace/STM32/externLib/F4config/build/CMakeFiles/untitled3.elf.dir
+E:/VS code workspace/STM32/externLib/F4config/build/CMakeFiles/edit_cache.dir
+E:/VS code workspace/STM32/externLib/F4config/build/CMakeFiles/rebuild_cache.dir
